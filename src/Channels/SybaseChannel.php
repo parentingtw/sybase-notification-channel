@@ -59,6 +59,7 @@ class SybaseChannel
                     Text={$content}
                 [SETUP]
                     MobileNotification=YES
+                    SplitText=YES
                     DCS=BIG5
                 [END]";
     }
